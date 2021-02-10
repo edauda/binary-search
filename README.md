@@ -1,6 +1,6 @@
 # Implementation of binary search algorithm!!
 This is the implimentation of the Binary Search Algorithm with the Naive search algorithm. 
-The idea is to compare the both algorithms using #Python to see which executes faster
+The idea is to compare the both algorithms using *Python* to see which executes faster
 We will prove that binary search is faster than naive search!
 
 # Essence of binary search:
